@@ -1,0 +1,26 @@
+{"model": "RidgeClassifier", "params": {"alpha": 100.0}, "score": 0.9004115470642735, "accuracy": 0.92428125, "precision": 0.876541844128547}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.9382170492393391, "accuracy": 0.95334375, "precision": 0.9230903484786782}
+{"model": "GaussianNB", "params": {}, "score": 0.8674925590803433, "accuracy": 0.75203125, "precision": 0.9829538681606866}
+{"model": "BaggingClassifier", "params": {"n_estimators": 1000}, "score": 0.9369686474487425, "accuracy": 0.95240625, "precision": 0.921531044897485}
+{"model": "SGDClassifier", "params": {"alpha": 0.1, "penalty": "l2"}, "score": 0.906045563298427, "accuracy": 0.83903125, "precision": 0.9730598765968541}
+{"model": "LinearSVC", "params": {"C": 0.1, "penalty": "l2"}, "score": 0.9108596995470453, "accuracy": 0.93121875, "precision": 0.8905006490940904}
+{"model": "LinearSVC", "params": {"C": 100.0, "penalty": "l2"}, "score": 0.8888738630861807, "accuracy": 0.8685625, "precision": 0.9091852261723613}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 10000, "max_depth": 500}, "score": 0.9381567108688695, "accuracy": 0.95328125, "precision": 0.9230321717377392}
+{"model": "SVC", "params": {"C": 100.0, "kernel": "sigmoid"}, "score": 0.4949893461894743, "accuracy": 0.49440625, "precision": 0.4955724423789487}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "sigmoid"}, "score": 0.5063303318700825, "accuracy": 0.50565625, "precision": 0.507004413740165}
+{"model": "SVC", "params": {"C": 100.0, "kernel": "rbf"}, "score": 0.9049777407049291, "accuracy": 0.92496875, "precision": 0.8849867314098583}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 100, "weights": "distance"}, "score": 0.9223759416195857, "accuracy": 0.9345, "precision": 0.9102518832391714}
+{"model": "LogisticRegression", "params": {"C": 0.1, "penalty": "l2"}, "score": 0.8965375854842268, "accuracy": 0.92075, "precision": 0.8723251709684535}
+{"model": "LogisticRegression", "params": {"C": 100.0, "penalty": "l2"}, "score": 0.8985746648881692, "accuracy": 0.92215625, "precision": 0.8749930797763383}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 1000, "learning_rate": 10.0}, "score": 0.40128984720325583, "accuracy": 0.37421875, "precision": 0.4283609444065117}
+{"model": "LogisticRegression", "params": {"C": 100.0, "penalty": "none"}, "score": 0.8979853245856353, "accuracy": 0.9219375, "precision": 0.8740331491712707}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 5, "weights": "uniform"}, "score": 0.9286255296610169, "accuracy": 0.9409375, "precision": 0.9163135593220338}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 100, "weights": "uniform"}, "score": 0.9080022192898273, "accuracy": 0.9158125, "precision": 0.9001919385796545}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 10.0}, "score": 0.7048778377100537, "accuracy": 0.71240625, "precision": 0.6973494254201074}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.9381031180903061, "accuracy": 0.9531875, "precision": 0.9230187361806121}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 10000, "max_depth": 500}, "score": 0.9380852533095723, "accuracy": 0.95315625, "precision": 0.9230142566191446}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 10000, "max_depth": 1000}, "score": 0.9380963724984002, "accuracy": 0.95321875, "precision": 0.9229739949968003}
+{"model": "LGBMClassifier", "params": {"n_estimators": 12000, "max_depth": 100}, "score": 0.9385877236165203, "accuracy": 0.95390625, "precision": 0.9232691972330408}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": null, "criterion": "entropy"}, "score": 0.9351714467438013, "accuracy": 0.95059375, "precision": 0.9197491434876024}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 1000, "criterion": "entropy"}, "score": 0.9349546730718974, "accuracy": 0.95034375, "precision": 0.9195655961437946}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": null, "criterion": "gini"}, "score": 0.9343264365460507, "accuracy": 0.94984375, "precision": 0.9188091230921015}

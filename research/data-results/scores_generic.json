@@ -1,0 +1,13 @@
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 100}, "score": 0.9703787179085785, "accuracy": 0.970125, "percission": 0.9706324358171572}
+{"model": "LogisticRegression", "params": {"C": 100.0, "penalty": "l2"}, "score": 0.5036002497309296, "accuracy": 0.5048125, "precision": 0.5023879994618593}
+{"model": "GaussianNB", "params": {}, "score": 0.7002939079389424, "accuracy": 0.57090625, "precision": 0.8296815658778849}
+{"model": "RidgeClassifier", "params": {"alpha": 0.1}, "score": 0.9561717212852945, "accuracy": 0.951375, "precision": 0.960968442570589}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.1375647099017437, "accuracy": 0.27346875, "precision": 0.0016606698034874066}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000}, "score": 0.9775683646533845, "accuracy": 0.9755, "precision": 0.9796367293067689}
+{"model": "BaggingClassifier", "params": {"n_estimators": 1000}, "score": 0.9906815497536485, "accuracy": 0.99046875, "precision": 0.990894349507297}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 9, "weights": "uniform"}, "score": 0.8482312259411495, "accuracy": 0.84, "precision": 0.8564624518822992}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 10.0}, "score": 0.5265812061574435, "accuracy": 0.509125, "precision": 0.544037412314887}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.990773431650861, "accuracy": 0.99046875, "precision": 0.991078113301722}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": null}, "score": 0.9915841628182727, "accuracy": 0.99121875, "precision": 0.9919495756365452}
+{"model": "XGBClassifier", "params": {"n_estimators": 10000, "max_depth": 1000}, "score": 0.9909097256916255, "accuracy": 0.990375, "precision": 0.9914444513832511}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 100, "weights": "distance"}, "score": 0.8594450190635241, "accuracy": 0.85721875, "precision": 0.8616712881270482}

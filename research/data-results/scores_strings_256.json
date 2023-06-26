@@ -1,0 +1,30 @@
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 12000, "learning_rate": 0.1}, "score": 0.9750343861436577, "accuracy": 0.97, "precision": 0.9800687722873154}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 5, "weights": "uniform"}, "score": 0.6676545961789515, "accuracy": 0.70365625, "precision": 0.6316529423579031}
+{"model": "SVC", "params": {"C": 100.0, "kernel": "poly"}, "score": 0.9160429699783033, "accuracy": 0.91415625, "precision": 0.9179296899566065}
+{"model": "BaggingClassifier", "params": {"n_estimators": 1000}, "score": 0.9734841372394971, "accuracy": 0.95940625, "precision": 0.9875620244789943}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "sigmoid"}, "score": 0.5409875765370534, "accuracy": 0.5401875, "precision": 0.5417876530741068}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 100, "weights": "uniform"}, "score": 0.5864932151872013, "accuracy": 0.60940625, "precision": 0.5635801803744026}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 5, "criterion": "entropy"}, "score": 0.8405785666319814, "accuracy": 0.76653125, "precision": 0.9146258832639629}
+{"model": "XGBClassifier", "params": {"eval_metric": "logloss", "n_estimators": 10000, "max_depth": 100}, "score": 0.9775201773244536, "accuracy": 0.9688125, "precision": 0.9862278546489073}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000, "learning_rate": 0.1}, "score": 0.8986902874051792, "accuracy": 0.8890625, "precision": 0.9083180748103583}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 5, "weights": "distance"}, "score": 0.7256635239997826, "accuracy": 0.76565625, "precision": 0.6856707979995651}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": null, "criterion": "entropy"}, "score": 0.9302692786069652, "accuracy": 0.93075, "precision": 0.9297885572139304}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.9688806550171527, "accuracy": 0.94640625, "precision": 0.9913550600343053}
+{"model": "SGDClassifier", "params": {"alpha": 0.1, "penalty": "elasticnet"}, "score": 0.7161471226676519, "accuracy": 0.67375, "precision": 0.7585442453353038}
+{"model": "SVC", "params": {"C": 100.0, "kernel": "rbf"}, "score": 0.9442717015585304, "accuracy": 0.93446875, "precision": 0.9540746531170607}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "rbf"}, "score": 0.9084842995108302, "accuracy": 0.85634375, "precision": 0.9606248490216603}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 1000, "criterion": "entropy"}, "score": 0.9322292998646631, "accuracy": 0.93259375, "precision": 0.9318648497293262}
+{"model": "LinearSVC", "params": {"C": 0.1, "penalty": "l2"}, "score": 0.7098387165220671, "accuracy": 0.708625, "precision": 0.7110524330441342}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "linear"}, "score": 0.7220458426876203, "accuracy": 0.7185625, "precision": 0.7255291853752406}
+{"model": "LGBMClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.9778510198177639, "accuracy": 0.96884375, "precision": 0.9868582896355279}
+{"model": "GaussianNB", "params": {}, "score": 0.6667609691573106, "accuracy": 0.6635, "precision": 0.6700219383146212}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": null}, "score": 0.9687973230209905, "accuracy": 0.946375, "precision": 0.9912196460419811}
+{"model": "SGDClassifier", "params": {"alpha": 0.0001, "penalty": "l2"}, "score": 0.702254392281106, "accuracy": 0.70865625, "precision": 0.695852534562212}
+{"model": "LogisticRegression", "params": {"C": 100.0, "penalty": "l2"}, "score": 0.7113247622622623, "accuracy": 0.710625, "precision": 0.7120245245245245}
+{"model": "SGDClassifier", "params": {"alpha": 0.1, "penalty": "l1"}, "score": 0.24940625, "accuracy": 0.4988125, "precision": 0.0}
+{"model": "LogisticRegression", "params": {"C": 100.0, "penalty": "none"}, "score": 0.7113247622622623, "accuracy": 0.710625, "precision": 0.7120245245245245}
+{"model": "LogisticRegression", "params": {"C": 0.1, "penalty": "none"}, "score": 0.7113247622622623, "accuracy": 0.710625, "precision": 0.7120245245245245}
+{"model": "RidgeClassifier", "params": {"alpha": 0.1}, "score": 0.7086691872290632, "accuracy": 0.70753125, "precision": 0.7098071244581265}
+{"model": "RidgeClassifier", "params": {"alpha": 100.0}, "score": 0.709014011196377, "accuracy": 0.70775, "precision": 0.7102780223927538}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 5000, "max_depth": 500}, "score": 0.9626240693227583, "accuracy": 0.93365625, "precision": 0.9915918886455168}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 5000, "max_depth": 100}, "score": 0.9629381181124612, "accuracy": 0.934, "precision": 0.9918762362249223}

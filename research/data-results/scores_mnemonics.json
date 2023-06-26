@@ -1,0 +1,216 @@
+{"model": "LGBMClassifier", "params": {"n_estimators": 1000, "max_depth": 100}, "score": 0.9617059618561346}
+{"model": "RidgeClassifier", "params": {"alpha": 10.0}, "score": 0.7471091755518847}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 10, "criterion": "entropy"}, "score": 0.9127496621114282}
+{"model": "RidgeClassifier", "params": {"alpha": 1.0}, "score": 0.7750412974921159}
+{"model": "SGDClassifier", "params": {"alpha": 0.01, "penalty": "l2"}, "score": 0.5805676528007209}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 5}, "score": 0.8888722030334885}
+{"model": "LogisticRegression", "params": {"C": 0.1, "penalty": "l2"}, "score": 0.6945487310406968}
+{"model": "LinearSVC", "params": {"C": 0.1, "penalty": "l2"}, "score": 0.7645292085898784}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.3476497972668569}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "linear"}, "score": 0.6648145367172248}
+{"model": "GaussianNB", "params": {}, "score": 0.6980027031085748}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 1000, "max_depth": 10}, "score": 0.8707013065024779}
+{"model": "GaussianNB", "params": {}, "score": 0.6980027031085748}
+{"model": "RidgeClassifier", "params": {"alpha": 100.0}, "score": 0.6772788707013065}
+{"model": "GaussianNB", "params": {}, "score": 0.6980027031085748}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 30, "criterion": "gini"}, "score": 0.9334734945186965}
+{"model": "RidgeClassifier", "params": {"alpha": 10.0}, "score": 0.7471091755518847}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 100}, "score": 0.9609550983631175}
+{"model": "LGBMClassifier", "params": {"n_estimators": 100, "max_depth": 5}, "score": 0.9381288481754018}
+{"model": "SGDClassifier", "params": {"alpha": 0.0001, "penalty": "l1"}, "score": 0.7774440606697702}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 1000, "max_depth": null}, "score": 0.961856134554738}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 1.0}, "score": 0.9352755669019372}
+{"model": "SGDClassifier", "params": {"alpha": 0.0001, "penalty": "elasticnet"}, "score": 0.7499624568253491}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 10000, "max_depth": 100}, "score": 0.9615557891575311}
+{"model": "LinearSVC", "params": {"C": 100.0, "penalty": "l2"}, "score": 0.8086799819792762}
+{"model": "RidgeClassifier", "params": {"alpha": 1.0}, "score": 0.7750412974921159}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 30, "criterion": "entropy"}, "score": 0.9357260849977475}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 30, "criterion": "entropy"}, "score": 0.9339240126145066}
+{"model": "RidgeClassifier", "params": {"alpha": 100.0}, "score": 0.6772788707013065}
+{"model": "SVC", "params": {"C": 1.0, "kernel": "linear"}, "score": 0.7642288631926716}
+{"model": "RidgeClassifier", "params": {"alpha": 100.0}, "score": 0.6772788707013065}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 10000, "max_depth": 5}, "score": 0.7885568403664214}
+{"model": "XGBClassifier", "params": {"n_estimators": 10000, "max_depth": 100}, "score": 0.9621564799519448}
+{"model": "LogisticRegression", "params": {"C": 0.1, "penalty": "l2"}, "score": 0.6924463132602493}
+{"model": "SGDClassifier", "params": {"alpha": 0.0001, "penalty": "l1"}, "score": 0.7986184111728488}
+{"model": "LogisticRegression", "params": {"C": 100.0, "penalty": "none"}, "score": 0.7987685838714522}
+{"model": "SVC", "params": {"C": 10.0, "kernel": "poly"}, "score": 0.8651449166541523}
+{"model": "LogisticRegression", "params": {"C": 10.0, "penalty": "l2"}, "score": 0.7939630575161436}
+{"model": "RidgeClassifier", "params": {"alpha": 10.0}, "score": 0.7604745457275868}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 1000, "max_depth": null}, "score": 0.9621564799519448}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 1000, "learning_rate": 0.1}, "score": 0.8621414626820844}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 1000, "max_depth": 10}, "score": 0.9450367923111578}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 0.1}, "score": 0.9073434449617059}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 30}, "score": 0.9627571707463584}
+{"model": "XGBClassifier", "params": {"n_estimators": 12000, "max_depth": 10}, "score": 0.9620063072533414}
+{"model": "SVC", "params": {"C": 1.0, "kernel": "poly"}, "score": 0.8438203934524703}
+{"model": "LinearSVC", "params": {"C": 10.0, "penalty": "l2"}, "score": 0.803273764829554}
+{"model": "RidgeClassifier", "params": {"alpha": 1.0}, "score": 0.7747409520949091}
+{"model": "XGBClassifier", "params": {"n_estimators": 1000, "max_depth": 10}, "score": 0.9623066526505482}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 100, "learning_rate": 1.0}, "score": 0.86769785253041}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 10000, "learning_rate": 0.1}, "score": 0.9570506081994293}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 5, "weights": "distance"}, "score": 0.9273164138759573}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 5000, "max_depth": 1000}, "score": 0.9648595885268059}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 10, "criterion": "gini"}, "score": 0.9106472443309807}
+{"model": "SGDClassifier", "params": {"alpha": 0.001, "penalty": "l2"}, "score": 0.6622616008409671}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 5000, "max_depth": 10}, "score": 0.8657456074485659}
+{"model": "SVC", "params": {"C": 100.0, "kernel": "poly"}, "score": 0.886769785253041}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 100, "weights": "distance"}, "score": 0.8999849827301397}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 100, "criterion": "entropy"}, "score": 0.9336236672173}
+{"model": "LogisticRegression", "params": {"C": 0.1, "penalty": "none"}, "score": 0.7987685838714522}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 100, "criterion": "entropy"}, "score": 0.9328728037242829}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 9, "weights": "distance"}, "score": 0.9271662411773539}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.4958702507884067}
+{"model": "LGBMClassifier", "params": {"n_estimators": 5000, "max_depth": 10}, "score": 0.9641087250337889}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 5000, "max_depth": 1000}, "score": 0.9647094158282025}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 0.1}, "score": 0.9074936176603093}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 100, "criterion": "gini"}, "score": 0.9331731491214897}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 100, "weights": "uniform"}, "score": 0.8722030334885118}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 1000, "learning_rate": 10.0}, "score": 0.3387896080492566}
+{"model": "LogisticRegression", "params": {"C": 1.0, "penalty": "l2"}, "score": 0.7787956149572007}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.3387896080492566}
+{"model": "RidgeClassifier", "params": {"alpha": 1.0}, "score": 0.7747409520949091}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 5, "criterion": "gini"}, "score": 0.8313560594683886}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 10, "criterion": "gini"}, "score": 0.9118486259198078}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 9, "weights": "uniform"}, "score": 0.9156029433848927}
+{"model": "SGDClassifier", "params": {"alpha": 0.1, "penalty": "elasticnet"}, "score": 0.4958702507884067}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 100, "criterion": "gini"}, "score": 0.9336236672173}
+{"model": "LinearSVC", "params": {"C": 1.0, "penalty": "l2"}, "score": 0.7938128848175402}
+{"model": "LogisticRegression", "params": {"C": 100.0, "penalty": "none"}, "score": 0.7987685838714522}
+{"model": "LogisticRegression", "params": {"C": 0.1, "penalty": "l2"}, "score": 0.7052109926415377}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 1000, "max_depth": 1000}, "score": 0.9648595885268059}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 0.1}, "score": 0.9073434449617059}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 30, "criterion": "entropy"}, "score": 0.9339240126145066}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 1.0}, "score": 0.9375281573809882}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.3387896080492566}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 5, "criterion": "entropy"}, "score": 0.8289532962907343}
+{"model": "SGDClassifier", "params": {"alpha": 0.01, "penalty": "elasticnet"}, "score": 0.5907793963057516}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 1000, "max_depth": 5}, "score": 0.7989187565700555}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 100, "criterion": "gini"}, "score": 0.9330229764228863}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 30, "criterion": "entropy"}, "score": 0.9337738399159032}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 5, "criterion": "entropy"}, "score": 0.8291034689893377}
+{"model": "LGBMClassifier", "params": {"n_estimators": 10000, "max_depth": 5}, "score": 0.9644090704309957}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 1000, "criterion": "entropy"}, "score": 0.9325724583270761}
+{"model": "LGBMClassifier", "params": {"n_estimators": 5000, "max_depth": 100}, "score": 0.9642588977323923}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "XGBClassifier", "params": {"n_estimators": 1000, "max_depth": 10}, "score": 0.9623066526505482}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 100, "learning_rate": 1.0}, "score": 0.86769785253041}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 12000, "learning_rate": 1.0}, "score": 0.9399309205586425}
+{"model": "XGBClassifier", "params": {"n_estimators": 10000, "max_depth": 5}, "score": 0.9614056164589277}
+{"model": "SGDClassifier", "params": {"alpha": 0.001, "penalty": "elasticnet"}, "score": 0.6628622916353807}
+{"model": "SGDClassifier", "params": {"alpha": 0.0001, "penalty": "l2"}, "score": 0.6987535666015918}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 10000, "learning_rate": 1.0}, "score": 0.9397807478600391}
+{"model": "XGBClassifier", "params": {"n_estimators": 10000, "max_depth": 5}, "score": 0.9614056164589277}
+{"model": "SGDClassifier", "params": {"alpha": 0.0001, "penalty": "l2"}, "score": 0.728938279020874}
+{"model": "SVC", "params": {"C": 100.0, "kernel": "linear"}, "score": 0.8092806727736898}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 5000, "max_depth": 10}, "score": 0.8646943985583421}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 1000, "max_depth": 5}, "score": 0.7857035590929569}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.4958702507884067}
+{"model": "LGBMClassifier", "params": {"n_estimators": 1000, "max_depth": 10}, "score": 0.9621564799519448}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 5, "weights": "distance"}, "score": 0.9273164138759573}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 10000, "max_depth": 5}, "score": 0.8750563147619763}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "SGDClassifier", "params": {"alpha": 0.1, "penalty": "l1"}, "score": 0.4958702507884067}
+{"model": "SVC", "params": {"C": 1.0, "kernel": "sigmoid"}, "score": 0.6181108274515693}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 5, "weights": "uniform"}, "score": 0.9202582970415978}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 1000, "max_depth": 30}, "score": 0.9632076888421685}
+{"model": "SGDClassifier", "params": {"alpha": 0.001, "penalty": "l1"}, "score": 0.6870400961105271}
+{"model": "RidgeClassifier", "params": {"alpha": 0.1}, "score": 0.7872052860789909}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 1000, "learning_rate": 0.1}, "score": 0.8621414626820844}
+{"model": "RidgeClassifier", "params": {"alpha": 0.1}, "score": 0.7872052860789909}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 1000, "max_depth": 100}, "score": 0.961856134554738}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 10.0}, "score": 0.4958702507884067}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 10, "criterion": "gini"}, "score": 0.9104970716323773}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 12000, "learning_rate": 1.0}, "score": 0.9400810932572459}
+{"model": "XGBClassifier", "params": {"n_estimators": 1000, "max_depth": 100}, "score": 0.9617059618561346}
+{"model": "LGBMClassifier", "params": {"n_estimators": 5000, "max_depth": 1000}, "score": 0.9642588977323923}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "LinearSVC", "params": {"C": 10.0, "penalty": "l2"}, "score": 0.803273764829554}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 5, "weights": "uniform"}, "score": 0.9202582970415978}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "linear"}, "score": 0.674425589427842}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000, "learning_rate": 0.1}, "score": 0.881814086199129}
+{"model": "RidgeClassifier", "params": {"alpha": 10.0}, "score": 0.7604745457275868}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000, "learning_rate": 0.1}, "score": 0.881814086199129}
+{"model": "LGBMClassifier", "params": {"n_estimators": 100, "max_depth": 5}, "score": 0.9351253942033338}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": null, "criterion": "gini"}, "score": 0.9328728037242829}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 10}, "score": 0.9456374831055714}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "LinearSVC", "params": {"C": 100.0, "penalty": "l2"}, "score": 0.8014716924463132}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 10000, "max_depth": 5}, "score": 0.7954647845021775}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "XGBClassifier", "params": {"n_estimators": 12000, "max_depth": 100}, "score": 0.9620063072533414}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.4958702507884067}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 30}, "score": 0.9621564799519448}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "RidgeClassifier", "params": {"alpha": 1.0}, "score": 0.7747409520949091}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 5000, "max_depth": 100}, "score": 0.9645592431295991}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.4958702507884067}
+{"model": "LogisticRegression", "params": {"C": 1.0, "penalty": "none"}, "score": 0.7987685838714522}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 12000, "learning_rate": 10.0}, "score": 0.4958702507884067}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 100, "criterion": "entropy"}, "score": 0.9336236672173}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 9, "weights": "uniform"}, "score": 0.9156029433848927}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "linear"}, "score": 0.674425589427842}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 12000, "learning_rate": 1.0}, "score": 0.9400810932572459}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 100, "weights": "uniform"}, "score": 0.8722030334885118}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "RidgeClassifier", "params": {"alpha": 100.0}, "score": 0.6885418230965611}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 5000, "max_depth": 5}, "score": 0.7900585673524553}
+{"model": "GaussianNB", "params": {}, "score": 0.6838864694398559}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.4958702507884067}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 100, "learning_rate": 1.0}, "score": 0.86769785253041}
+{"model": "LGBMClassifier", "params": {"n_estimators": 1000, "max_depth": 10}, "score": 0.9621564799519448}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 1000, "max_depth": 5}, "score": 0.8756570055563898}
+{"model": "RidgeClassifier", "params": {"alpha": 0.1}, "score": 0.7872052860789909}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 100, "learning_rate": 10.0}, "score": 0.3387896080492566}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 12000, "learning_rate": 0.1}, "score": 0.9570506081994293}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.962606998047755}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 1000, "criterion": "gini"}, "score": 0.9328728037242829}
+{"model": "SVC", "params": {"C": 1.0, "kernel": "rbf"}, "score": 0.8406667667817991}
+{"model": "LogisticRegression", "params": {"C": 100.0, "penalty": "l2"}, "score": 0.7989187565700555}
+{"model": "SGDClassifier", "params": {"alpha": 0.1, "penalty": "l2"}, "score": 0.4958702507884067}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 10000, "max_depth": 2000}, "score": 0.9648595885268059}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 10000, "max_depth": 1000}, "score": 0.9674125244030636}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 10000, "max_depth": 1000}, "score": 0.9648595885268059}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 5000, "max_depth": 2000}, "score": 0.9674125244030636}
+{"model": "LGBMClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.9665114882114432}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": null}, "score": 0.9647094158282025}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 10000, "max_depth": 500}, "score": 0.96681183360865}
+{"model": "LGBMClassifier", "params": {"n_estimators": 100, "max_depth": 1000}, "score": 0.9480402462832257}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 12000, "max_depth": 2000}, "score": 0.96681183360865}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "rbf"}, "score": 0.78495269559994}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": null, "criterion": "entropy"}, "score": 0.9391800570656255}
+{"model": "BaggingClassifier", "params": {"n_estimators": 1000}, "score": 0.9602042348701006}
+{"model": "IsolationForest", "params": {"n_estimators": 10000}, "score": 0.4730440006006908}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "sigmoid"}, "score": 0.6502477849526956}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 100}, "score": 0.8685988887220303}
+{"model": "BaggingClassifier", "params": {"n_estimators": 10000}, "score": 0.9597537167742904}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 1000}, "score": 0.8855684036642139}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.9656104520198228}
+{"model": "XGBClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.9632076888421685}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 500}, "score": 0.9645592431295991}
+{"model": "SVC", "params": {"C": 100.0, "kernel": "rbf"}, "score": 0.8947289382790209}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000}, "score": 0.8899234119237123}
+{"model": "BaggingClassifier", "params": {"n_estimators": 100}, "score": 0.9579516443910497}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 10000, "max_depth": 500}, "score": 0.9639585523351855}
+{"model": "LGBMClassifier", "params": {"n_estimators": 100, "max_depth": 100}, "score": 0.9468388646943986}
+{"model": "SVC", "params": {"C": 100.0, "kernel": "sigmoid"}, "score": 0.6301246433398409}
+{"model": "SVC", "params": {"C": 10.0, "kernel": "linear"}, "score": 0.808980327376483}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 10000, "max_depth": null}, "score": 0.9642588977323923}
+{"model": "SVC", "params": {"C": 10.0, "kernel": "sigmoid"}, "score": 0.6301246433398409}
+{"model": "SVC", "params": {"C": 0.1, "kernel": "poly"}, "score": 0.8097311908695}
+{"model": "SVC", "params": {"C": 10.0, "kernel": "rbf"}, "score": 0.8770085598438204}
+{"model": "XGBClassifier", "params": {"n_estimators": 10000, "max_depth": 1000}, "score": 0.9635080342393753}
+{"model": "LGBMClassifier", "params": {"n_estimators": 12000, "max_depth": 100}, "score": 0.9605045802673075}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 12000, "max_depth": 500}, "score": 0.9651599339240127}

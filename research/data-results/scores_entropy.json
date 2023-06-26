@@ -1,0 +1,27 @@
+{"model": "RidgeClassifier", "params": {"alpha": 100.0}, "score": 0.890542423870334, "accuracy": 0.8934375, "precision": 0.887647347740668}
+{"model": "SGDClassifier", "params": {"alpha": 0.0001, "penalty": "l1"}, "score": 0.9194298780487805, "accuracy": 0.91325, "precision": 0.925609756097561}
+{"model": "LogisticRegression", "params": {"C": 0.1, "penalty": "none"}, "score": 0.9167923330671685, "accuracy": 0.91371875, "precision": 0.9198659161343369}
+{"model": "SGDClassifier", "params": {"alpha": 0.0001, "penalty": "elasticnet"}, "score": 0.9179089267130964, "accuracy": 0.91221875, "precision": 0.9235991034261928}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000, "learning_rate": 0.1}, "score": 0.9690440326701881, "accuracy": 0.96840625, "precision": 0.9696818153403763}
+{"model": "LinearSVC", "params": {"C": 100.0, "penalty": "l2"}, "score": 0.9219254032258064, "accuracy": 0.914625, "precision": 0.9292258064516129}
+{"model": "SVC", "params": {"C": 10.0, "kernel": "sigmoid"}, "score": 0.8401584024635496, "accuracy": 0.838625, "precision": 0.841691804927099}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 1000, "criterion": "entropy"}, "score": 0.9828678570311522, "accuracy": 0.9820625, "precision": 0.9836732140623046}
+{"model": "LogisticRegression", "params": {"C": 100.0, "penalty": "none"}, "score": 0.9167923330671685, "accuracy": 0.91371875, "precision": 0.9198659161343369}
+{"model": "GaussianNB", "params": {}, "score": 0.800600041917602, "accuracy": 0.61078125, "precision": 0.9904188338352039}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 9, "weights": "uniform"}, "score": 0.9811099472298606, "accuracy": 0.98053125, "precision": 0.9816886444597213}
+{"model": "RidgeClassifier", "params": {"alpha": 0.1}, "score": 0.8967932751413819, "accuracy": 0.8995, "precision": 0.8940865502827637}
+{"model": "SVC", "params": {"C": 1.0, "kernel": "sigmoid"}, "score": 0.8570338326446281, "accuracy": 0.850625, "precision": 0.8634426652892562}
+{"model": "ExtraTreesClassifier", "params": {"n_estimators": 12000, "max_depth": 1000}, "score": 0.9890511625320053, "accuracy": 0.98865625, "precision": 0.9894460750640105}
+{"model": "BaggingClassifier", "params": {"n_estimators": 1000}, "score": 0.9871673321687048, "accuracy": 0.987, "precision": 0.9873346643374096}
+{"model": "LinearSVC", "params": {"C": 0.1, "penalty": "l2"}, "score": 0.911066246585986, "accuracy": 0.90953125, "precision": 0.9126012431719721}
+{"model": "BaggingClassifier", "params": {"n_estimators": 100}, "score": 0.986671192940883, "accuracy": 0.986625, "precision": 0.986717385881766}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 1000, "learning_rate": 10.0}, "score": 0.13782407729805016, "accuracy": 0.2748125, "precision": 0.0008356545961002785}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 10000, "learning_rate": 10.0}, "score": 0.13782407729805016, "accuracy": 0.2748125, "precision": 0.0008356545961002785}
+{"model": "AdaBoostClassifier", "params": {"n_estimators": 1000, "learning_rate": 0.1}, "score": 0.9577282310515935, "accuracy": 0.95671875, "precision": 0.958737712103187}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 5, "weights": "distance"}, "score": 0.9858649564026104, "accuracy": 0.98546875, "precision": 0.9862611628052208}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 10.0}, "score": 0.37249950285607514, "accuracy": 0.34803125, "precision": 0.3969677557121503}
+{"model": "GradientBoostingClassifier", "params": {"n_estimators": 100, "learning_rate": 0.1}, "score": 0.957107267222989, "accuracy": 0.955625, "precision": 0.9585895344459782}
+{"model": "DecisionTreeClassifier", "params": {"max_depth": 5, "criterion": "entropy"}, "score": 0.9250862488730336, "accuracy": 0.92559375, "precision": 0.9245787477460673}
+{"model": "KNeighborsClassifier", "params": {"n_neighbors": 100, "weights": "uniform"}, "score": 0.9710571774155201, "accuracy": 0.96709375, "precision": 0.9750206048310404}
+{"model": "XGBClassifier", "params": {"eval_metric": "logloss", "n_estimators": 10000, "max_depth": 1000}, "score": 0.9880637903162979, "accuracy": 0.98815625, "precision": 0.9879713306325958}
+{"model": "RandomForestClassifier", "params": {"n_estimators": 12000, "max_depth": 100}, "score": 0.9883134397397944, "accuracy": 0.98840625, "precision": 0.9882206294795887}
