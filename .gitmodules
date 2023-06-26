@@ -1,0 +1,3 @@
+[submodule "BinSniff"]
+	path = BinSniff
+	url = git@github.com:sg1o/BinSniff.git
